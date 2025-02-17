@@ -1,25 +1,79 @@
-[![MasterHead](https://img.freepik.com/premium-photo/inflated-modern-illustration-web-developer-working-laptop-horizontal-banner-young-programmer-job-is-displayed-banner-colorful-flat-style_717906-34710.jpg?w=826)](https://binyamcheru.io)<h1 align="center">Hi 👋, I'm Binyam Cheru</h1>
-<h3 align="center">A passionate software engineering student from Ethiopia</h3>
-<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binyamcheru&label=Profile%20views&color=0e75b6&style=flat" alt="binyamcheru" /> </p>
-
-- 🌱 I’m currently learning **frontend development and android development with kotlin**
-
-- 💬 Ask me about **java script, C++, Kotlin**
-
-- 📫 How to reach me **benjaminbinyam500@gmail.com**
-
-- ⚡ Fun fact **I am a Tech Nerd**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Frontend+Developer;Android+Developer;Tech+Enthusiast"></img>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- Introduction -->
+# Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binyamcheru&show_icons=true&locale=en&layout=compact" alt="binyamcheru" /></p>
+I'm **Binyam Cheru**, a passionate software engineering student from Ethiopia 🇪🇹
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binyamcheru&show_icons=true&locale=en" alt="binyamcheru" /></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binyamcheru&" alt="binyamcheru" /></p>
+## 🚀 About Me
+
+- 🌱 I'm currently learning **Frontend Development** and **Android Development with Kotlin**
+- 💬 Ask me about **JavaScript, C++, Kotlin**
+- 📫 Reach me at: **benjaminbinyam500@gmail.com**
+- ⚡ Fun fact: I am a Tech Nerd 🤓
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=binyamcheru&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binyamcheru&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binyamcheru&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=binyamcheru&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=binyamcheru&theme=radical" alt="Contribution Graph" />
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=binyamcheru&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  <i>🚀 If you're interested in collaborating on projects, feel free to reach out!</i>
+</p>
